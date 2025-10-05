@@ -1,5 +1,5 @@
 # 📊 HR Management Dashboard (Power BI) #
-🧠 Project Overview
+<u>🧠 Project Overview </u>
 
 The HR Management Dashboard is an interactive Power BI project that provides key insights into employee distribution, departmental performance, gender balance, remote work status, and project handling capacity across multiple locations.
 This dashboard helps HR teams and management make data-driven decisions for workforce planning, performance tracking, and resource allocation.
